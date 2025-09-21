@@ -3,6 +3,12 @@
 - Personal portfolio website ([zehata.dev](https://zehata.dev)): Working on adding tests and code coverage toolings. You can see how I am inventing new tech and pushing the boundaries of frontend development. You can check out the repo to see my abilities in architecturing a project, and my TypeScript/React/Next.js/PostgreSQL/AWS skills
 - Navaday: Current freelance project for a travel agent SME. Private freelance work, I will make it generic eventually.
 
+## Languages I write in:
+- English and Mandarin Chines- Oh you want to know which _programming_ languages I write in
+These are the languages I am confident in:
+- JavaScript/TypeScript
+- Python
+
 ## Contact
 - Business email: zehata@zehata.dev
 
