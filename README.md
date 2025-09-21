@@ -5,6 +5,7 @@
 
 ## Languages I write in:
 - English and Mandarin Chines- Oh you want to know which _programming_ languages I write in
+
 These are the languages I am confident in:
 - JavaScript/TypeScript
 - Python
