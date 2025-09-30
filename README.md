@@ -6,7 +6,7 @@
 ## Languages I write in:
 - English and Mandarin Chines- Oh you want to know which _programming_ languages I write in
 
-These are the languages I am confident in ((i.e. I can write these blindfolded)):
+These are the languages I am confident in (i.e. I can write these blindfolded):
 - JavaScript/TypeScript
 - Python
 
