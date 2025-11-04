@@ -1,7 +1,10 @@
 ## Current projects:
-- NUSMods: I used it significantly while studying at NUS, so I feel like contributing back. You can check out my PRs to have an idea of the quality of my work in production codebases and my TypeScript/React skills.
-- Personal portfolio website ([zehata.dev](https://zehata.dev)): **New!** I have recently added tests and code coverage toolings. You can see how I am inventing new tech and pushing the boundaries of frontend development. You can check out the repo to see my abilities in architecturing a project, my TypeScript/React/Next.js/PostgreSQL/AWS competency, and how I am working towards writing well-tested code.
+- NUSMods: I used it significantly while studying at NUS, so I feel like contributing back. You can check out my PRs to have an idea of the quality of my work in production codebases and my TypeScript/React skills. My fork is only used for PRs towards the project, so you will find most of my correspondence at https://github.com/nusmodifications/nusmods.
+
+- My portfolio site ([zehata.dev](https://zehata.dev)): You can see how I am inventing new tech and pushing the boundaries of frontend development. You can check out the repo to see my abilities in architecturing a project, my TypeScript/React/Next.js/PostgreSQL/AWS competency, and how I am working towards writing well-tested code. (**New!** I have recently added tests and code coverage toolings.)
+
 - Navaday: Current freelance project for a travel agent SME. Private freelance work, I will make it generic eventually.
+
 - Currently working on a graph-based business/production-line planner
 
 ## Languages I write in:
