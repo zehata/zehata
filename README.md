@@ -10,15 +10,9 @@
 ## Languages I write in:
 - English and Mandarin Chines- Oh you want to know which _programming_ languages I write in
 
-These are the languages I am confident in (i.e. I can write these blindfolded):
 - JavaScript/TypeScript
 - Python
-
-Other languages I used:
-- Golang (FOSS contribution)
-- VBA (Work)
-- C++ (School)
-- Rust (Self-study)
+- Rust (beginner-level)
 
 ## Contact
 - Business email: zehata@zehata.dev
