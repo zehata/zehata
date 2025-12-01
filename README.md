@@ -12,11 +12,11 @@
 
 - JavaScript/TypeScript
 - Python
-- Rust (beginner-level)
+- Rust
 
 ## Contact
 - Business email: zehata@zehata.dev
 
 ## AI use disclaimer
-- I have used machine vision libraries including openCV and Mediapipe for my work.
+- I have used machine vision libraries including OpenCV and Mediapipe for my work.
 - I don't use any generative AI in my work --- neither LLMs nor image diffusion. I am also not interested in any work involving these.
