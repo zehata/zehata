@@ -5,7 +5,7 @@
 
 - Navaday: Current freelance project for a travel agent SME. Private freelance work, I will make it generic eventually.
 
-- Currently working on a graph-based business/production-line planner: https://github.com/zehata/business-planner
+- Currently working on a graph-based business/production-line planner, in Rust: https://github.com/zehata/business-planner
 
 ## Languages I write in:
 - English and Mandarin Chines- Oh you want to know which _programming_ languages I write in
@@ -19,4 +19,4 @@
 
 ## AI use disclaimer
 - I have used machine vision libraries including OpenCV and Mediapipe for my work.
-- I don't use any generative AI in my work --- neither LLMs nor image diffusion. I am also not interested in any work involving these.
+- **I do not use any generative AI in my work** --- neither LLMs nor image diffusion. I am also not interested in any work involving these.
