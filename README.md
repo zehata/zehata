@@ -14,6 +14,8 @@
 - Python
 - Rust
 
+I also write CSS (I am a _huge_ fan of CSS, I _always_ write custom CSS and I genuinely think that the internet could look a lot less boring if we pay a bit more attention to user experience)
+
 ## Contact
 - Business email: zehata@zehata.dev
 
