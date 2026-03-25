@@ -1,7 +1,7 @@
 ## Current projects:
 - NUSMods: I used it significantly while studying at NUS, so I feel like contributing back. You can check out my PRs to have an idea of the quality of my work in production codebases and my TypeScript/React skills. My fork is only used for PRs towards the project, so you will find most of my correspondence at https://github.com/nusmodifications/nusmods.
 
-  Frontend: React SPA, TypeScript. Backend: TypeScript, Golang, Node.js. Test suite: Jest
+  Frontend: Vite, TypeScript. Backend: TypeScript, Golang, Node.js. Test suite: Jest
 
 - My portfolio site ([zehata.dev](https://zehata.dev)): You can check out the repo to see my abilities in the frontend, in architecturing a project, and my TypeScript/React/Next.js/PostgreSQL/AWS competency, and how I am working towards writing well-tested code.
 
